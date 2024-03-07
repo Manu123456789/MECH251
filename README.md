@@ -13,6 +13,7 @@ filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 # Example Output: 
 > [!NOTE]
 > num_samples was decreased in order to show more clearly the sampling on the object surface
+> 
 > This can be edited when calling sample_surface
 > 
 > ```Sampled_points = sample_surface(normalized_vertices, new_face_node, num_samples);```
