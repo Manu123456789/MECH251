@@ -13,7 +13,9 @@ filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 # Example Output: 
 > [!NOTE]
 > num_samples was decreased in order to show more clearly the sampling on the object surface
-> This is edited on line 51 in shape_descriptor.m
+> This can be edited when calling sample_surface
+> 
+> ```Sampled_points = sample_surface(normalized_vertices, new_face_node, num_samples);```
 
 ![image](https://github.com/Manu123456789/MECH251/assets/22645681/a39afa39-4af6-475a-af61-052033716fd5)
 
