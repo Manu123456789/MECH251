@@ -2,7 +2,8 @@
 Download Source Code from the following repositories:
 1. [Object_display](https://people.sc.fsu.edu/%7Ejburkardt/m_src/obj_display/obj_display.html).
 2. [Obj_io](https://people.sc.fsu.edu/%7Ejburkardt/m_src/obj_io/obj_io.html).
-3. Download shape_descriptor.m and sd_function_class.m
+
+Download shape_descriptor.m and sd_function_class.m
 
 # Import .obj files
 
