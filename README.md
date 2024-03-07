@@ -13,7 +13,7 @@ filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 # Example Output: 
 > [!NOTE]
 > num_samples was decreased in order to show more clearly the sampling on the object surface
-> This is edited on line 50 in shape_descriptor.m
+> This is edited on line 51 in shape_descriptor.m
 
 ![image](https://github.com/Manu123456789/MECH251/assets/22645681/a39afa39-4af6-475a-af61-052033716fd5)
 
