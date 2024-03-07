@@ -1,5 +1,6 @@
 clc; clear all; close all;
 
+% Input your files into the path and edit the following filenames array
 filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 
 for f = 1:length(filenames)
