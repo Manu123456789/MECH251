@@ -11,8 +11,14 @@ filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 ```
 
 # Example Output: 
+> [!NOTE]
+> num_samples was decreased in order to show more clearly the sampling on the object surface
+> This is edited on line 50 in shape_descriptor.m
 
-![image](https://github.com/Manu123456789/MECH251/assets/22645681/d5fa4cd1-e9c1-49a2-b268-0fadcaf221ca)
-![image](https://github.com/Manu123456789/MECH251/assets/22645681/e55591ac-03ea-40c1-9ab7-96acc2506701)
-![image](https://github.com/Manu123456789/MECH251/assets/22645681/f7187f85-b29b-468b-8e1e-a58eda33f67b)
-![image](https://github.com/Manu123456789/MECH251/assets/22645681/467ff680-3070-459c-b770-bb1ecf9f3ddc)
+![image](https://github.com/Manu123456789/MECH251/assets/22645681/a39afa39-4af6-475a-af61-052033716fd5)
+
+![image](https://github.com/Manu123456789/MECH251/assets/22645681/5e9f1523-e28c-46b5-ae7d-f164bcc79005)
+
+![image](https://github.com/Manu123456789/MECH251/assets/22645681/58575885-aaa3-4dd3-8861-9a63904c06fa)
+
+![image](https://github.com/Manu123456789/MECH251/assets/22645681/35ce3e0c-b7a4-4760-aa8d-c5f59ab0b89d)
