@@ -1,3 +1,4 @@
+% Manu Bodagala
 classdef GeometricObjectProcessor
     properties
         Vertices % Matrix of vertices coordinates
@@ -106,7 +107,7 @@ classdef GeometricObjectProcessor
     
         function A3_distribution_plot(Sampled_points)
             % Define the number of angles to compute
-            num_angles = 100000;  % You can adjust this number based on your needs
+            num_angles = 100000;  % You can adjust this number based on your needs, Manu
             
             % Preallocate array for angles
             angles = zeros(num_angles, 1);
