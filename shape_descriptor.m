@@ -1,7 +1,4 @@
-# MECH251
-Finite Element Analysis
 clc; clear all; close all;
-% Uncomment function def line 159 to run
 
 filenames = {'sphere.obj', 'shuttle.obj', 'ellipsoid.obj', 'cessna.obj'};
 
